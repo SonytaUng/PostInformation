@@ -1,0 +1,22 @@
+
+.post-list {
+    margin-top: 20px;
+    color: orange
+  }
+  
+.post-list p {
+    margin-bottom: 10px;
+  }
+
+#title{
+    color: goldenrod;
+}
+
+#description{
+    color: goldenrod;
+}
+
+#li{
+    color: blue;
+}
+  
